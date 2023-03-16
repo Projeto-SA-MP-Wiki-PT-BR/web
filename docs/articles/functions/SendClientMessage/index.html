@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="SAMP,samp,sampbrasil,ajuda samp,programação,sa-mp,SA-MP,wiki samp,wiki samp português,wiki samp portugues,wiki SA-MP,funções samp,script,gamemodes">
+    <meta name="description" content="Wiki de SA-MP Brasil">
+    <title>SA-MP Wiki Brasil</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+</head>
+<body id="body">
+    <div class="content" id="css_.335container">
+        <div class="navbar">
+            <ul class="navbarlinks" id="css_.331nav">
+                <li><i class="fa fa-bars" style="vertical-align:middle;cursor:pointer;font-size:24px;" aria-hidden="true"></i></li>
+                <li><a href="file:///C:/Users/T-GAMER/Desktop/wiki/wiki/index.html">Início</a></li>
+                <li><a href="file:///C:/Users/T-GAMER/Desktop/wiki/wiki/colaboradores/index.html">Colaboradores</a></li>
+                <li><a href="">Servidores</a></li>
+                <li><a href="">Docs</a></li>
+                <li><a href="">Contribua(Patreon)</a></li>
+            </ul>
+
+        </div>
+
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Nome</th>
+        <th scope="col">Descrição</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">playerid</th>
+        <td>O ID do jogador à receber a mensagem</td>
+      </tr>
+      <tr>
+        <th scope="row">color</th>
+        <td>A cor da mensagem em código HEX</td>
+      </tr>
+      <tr>
+        <th scope="row">const message[]</th>
+        <td>O conteúdo da mensagem a ser enviada para o jogador</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2>Exemplos:</h2>
+  <pre>
+    <span style="color: #008800; font-weight: bold">public</span> <span style="color: #0066BB; font-weight: bold">OnPlayerConnect</span>(playerid) {
+    SendClientMessage(playerid, <span style="color: #005588; font-weight: bold">0xFFFFFFAA</span>, <span style="background-color: #fff0f0">&quot;Bem-vindo ao meu servidor!&quot;</span>);
+    <span style="color: #008800; font-weight: bold">return</span> <span style="color: #0000DD; font-weight: bold">1</span>;
+}
+</pre><br/>
+<pre>
+<span style="color: #FF0000; background-color: default">#</span><span style="color: #0000FF; font-weight: bold">define Vermelho</span> <span style="color: #005588; font-weight: bold">0xFF0000AA</span>
+
+    <span style="color: #008800; font-weight: bold">public</span> OnPlayerConnect(playerid) {
+        SendClientMessage(playerid, Vermelho, <span style="background-color: #fff0f0">&quot;Olá, bem-vindo ao meu servidor!&quot;</span>);
+        <span style="color: #008800; font-weight: bold">return</span> <span style="color: #0000DD; font-weight: bold">1</span>;
+    }
+
+</pre>
+<h2 style="color: #000; font-size: 25px;text-align: left;">Notas:</h2>
+<div class="tip">
+    <i class="fa fa-lightbulb-o" aria-hidden="true"></i><h5 style="text-align: center;display: inline-flex;font-size: 29px;">&nbsp;Dica</h5>
+    <p>
+        &nbsp;&nbsp;Você pode usar a incorporação de cores para várias cores na mensagem.
+        <br/>
+        &nbsp;&nbsp;Usar '-1' como cor tornará o texto branco (pela simples razão de que -1, quando representado em notação hexadecimal, é 0xFFFFFFFF).
+    </p>
+</div>
+
+<div class="warning">
+    <i class="fa fa-fire" aria-hidden="true"></i><h5 style="text-align: center;display: inline-flex;font-size: 29px;">&nbsp;Aviso</h5>
+    <p>
+        &nbsp;&nbsp;Se uma mensagem tiver mais de 144 caracteres, ela não será enviada. O truncamento pode ser usado para evitar isso. 
+        <br/>
+        &nbsp;&nbsp;Exibir uma mensagem em várias linhas também resolverá esse problema. 
+        <br/>
+        &nbsp;&nbsp;Evite usar o sinal de porcentagem (ou especificadores de formato) no texto da mensagem real sem escapá-lo adequadamente (como %%). Caso contrário, isso resultará em falhas.
+    </p>
+</div>
+<br/>
+
+<div class="footer">
+    <div class="footer-links">
+        <h2>Comunidade</h2>
+        <ul class="footerlinks">
+            <li><a href="">Discord</a></li>
+        </ul>
+        <h2>Contribua</h2>
+        <ul class="footerlinks1">
+            <li><a href="">Github</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+</body>
+</html>
