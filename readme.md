@@ -31,5 +31,5 @@
 
 
 
-![IMG](https://img.shields.io/badge/Artigos%20at%C3%A9%20o%20momento-1-%23585858__%23BDBDBD)
-![IMG](https://img.shields.io/badge/Contribuidores%20at%C3%A9%20o%20momento-4-%23585858__%23BDBDBD)
+![GitHub issues](https://img.shields.io/github/issues-raw/Projeto-SA-MP-Wiki-PT-BR/web?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/Projeto-SA-MP-Wiki-PT-BR/web?color=D8D8D8&label=Contribuidores&logoColor=1C1C1C&style=plastic)
