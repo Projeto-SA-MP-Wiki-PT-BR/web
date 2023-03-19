@@ -9,10 +9,12 @@
 
 
 | Mudanças | | Mensagem do desenvolvedor |
+| ---- | ------- |
 |Pausado|    |Contribua se puder|
 
 ## Agradecimentos especiais
 |Nome|   |Contribuição|
+| ---- | ------- |
 |Felipe_|  |Desenvolvedor Front-end sênior|
 |zohaN|    |Tradutor Geral|
 |LESS15|   |Desenvolvedor back-end sênior|
