@@ -199,6 +199,10 @@ pre {
     font-size: 24px;
 }
 
+.warning a {
+color: #9083D2;
+}
+
 .warning {
     background-color: rgba(231,76,60,.1);
     border-left: 8px solid #e74c3c;
