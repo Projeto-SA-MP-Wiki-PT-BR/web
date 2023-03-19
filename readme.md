@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Minas%20Gerais%20SA--MP%20Group-PT--SAMP--WIKI-%23585858__E6E6E6
+[img https://img.shields.io/badge/Minas%20Gerais%20SA--MP%20Group-PT--SAMP--WIKI-%23585858__E6E6E6]
 
 # PT-SAMP-WIKI Project
 
