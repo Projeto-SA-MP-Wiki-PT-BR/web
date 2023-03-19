@@ -21,5 +21,7 @@
 | zohaN | Tradutor |
 | Johnny | Scraping |
 
+
+
 ![IMG](https://img.shields.io/badge/Artigos%20at%C3%A9%20o%20momento-1-%23585858__%23BDBDBD)
 ![IMG](https://img.shields.io/badge/Contribuidores%20at%C3%A9%20o%20momento-4-%23585858__%23BDBDBD)
