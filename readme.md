@@ -23,7 +23,7 @@
 ### Agradecimentos especiais
 | Nome | Contribuição |
 | ---- | ------- |
-| Felipe_ | Desenvolvedor sênior |
+| Felipe_ | Desenvolvedor sênior 1 |
 | LESS15 | Desenvolvedor  sênior 2 |
 | zohaN | Tradutor |
 | Johnny | Editor |
