@@ -19,7 +19,7 @@
 | ---- | ------- |
 | Pausado | Contribua se puder |
 
-## Agradecimentos especiais
+### Agradecimentos especiais
 | Nome | Contribuição |
 | ---- | ------- |
 | Felipe_ | Desenvolvedor front-end sênior |
