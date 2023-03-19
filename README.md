@@ -17,7 +17,7 @@
 
 | Mudanças | Mensagem do Desenvolvedor |
 | ---- | ------- |
-| Pausado | Contribua se puder |
+| Em andamento | Contribua se puder |
 
 
 ### Agradecimentos especiais
