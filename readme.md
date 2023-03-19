@@ -23,10 +23,10 @@
 ### Agradecimentos especiais
 | Nome | Contribuição |
 | ---- | ------- |
-| Felipe_ | Desenvolvedor front-end sênior |
-| LESS15 | Desenvolvedor back-end sênior |
+| Felipe_ | Desenvolvedor sênior |
+| LESS15 | Desenvolvedor  sênior 2 |
 | zohaN | Tradutor |
-| Johnny | Scraping |
+| Johnny | Editor |
 | E a toda equipe Minas Gerais SA-MP | Por tudo |
 
 
