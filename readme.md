@@ -20,6 +20,7 @@
 | LESS15 | Desenvolvedor back-end sênior |
 | zohaN | Tradutor |
 | Johnny | Scraping |
+| E a toda equipe Minas Gerais SA-MP | Por tudo |
 
 
 
