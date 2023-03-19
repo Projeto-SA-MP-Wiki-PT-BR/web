@@ -1,3 +1,9 @@
+<p align="center">
+ <a aria-label="Logo" href="https://projeto-sa-mp-wiki-pt-br.github.io/web/">
+  <img src="https://arrozmusic.000webhostapp.com/assets/images/icon.png">
+ </a>
+</p>
+
 ![IMG](https://img.shields.io/badge/Minas%20Gerais%20SA--MP%20Group-PT--SAMP--WIKI-%23585858__E6E6E6)
 
 # PT-SAMP-WIKI Project
