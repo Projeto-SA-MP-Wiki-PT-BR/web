@@ -31,5 +31,5 @@
 
 
 
-![GitHub issues](https://img.shields.io/github/issues-raw/Projeto-SA-MP-Wiki-PT-BR/web?style=plastic)
+![GitHub issues](https://img.shields.io/github/issues-raw/Projeto-SA-MP-Wiki-PT-BR/web?color=D8D8D8&label=Quest%C3%B5es%20em%20aberto&style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/Projeto-SA-MP-Wiki-PT-BR/web?color=D8D8D8&label=Contribuidores&logoColor=1C1C1C&style=plastic)
