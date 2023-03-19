@@ -5,7 +5,7 @@
 </p>
 
 ![IMG](https://img.shields.io/badge/Minas%20Gerais%20SA--MP%20Group-PT--SAMP--WIKI-%23585858__E6E6E6)
-
+<hr>
 # PT-SAMP-WIKI Project
 
 
@@ -18,7 +18,8 @@
 | Mudanças | Mensagem do Desenvolvedor |
 | ---- | ------- |
 | Pausado | Contribua se puder |
-<hr>
+
+
 ### Agradecimentos especiais
 | Nome | Contribuição |
 | ---- | ------- |
