@@ -16,7 +16,7 @@ body {
     font-size: 19px;
 }
 
-.navbarlinks li, ul {
+.navbarlinks {
     display: inline-flex;
     width: auto;
     left: 0;
@@ -115,10 +115,11 @@ pre {
     left: 0;
     bottom: 0;
     width: 100%;
+    height: 100%;
     background-color: #000c;
     color: white;
     text-align: center;
-    padding: auto;
+    padding: 3px;
 }
 
 .footer-links h2 {
